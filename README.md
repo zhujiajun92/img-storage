@@ -6,9 +6,7 @@
 
 ![Image text](https://raw.githubusercontent.com/zhujiajun92/img-storage/master/1.png)
 
-
 技术联系电话：021-63173333-241
-
 
 1.2 轻应用入驻模式
 
@@ -18,15 +16,19 @@
 （一）后台授权，直接获取服务（仅开放给自有业务及政府公共服务）：
 通过市民云用户和第三方用户之间的后台绑定，市民云用户可以直接获取第三方服务。
 （需要两者用户有共同身份标识：身份证号、手机号、社保卡号等）（示例如下图）
+
 ![Image text](https://raw.githubusercontent.com/zhujiajun92/img-storage/master/2.png)
 
 （二）通过用户授权，开通服务
 通过用户授权，在市民云上开通第三方服务。（示例如下图）
+
 ![Image text](https://raw.githubusercontent.com/zhujiajun92/img-storage/master/3.png)
 
 其中，对于需要调用接口获取用户个人信息的轻应用，要求出示一张提示页。
 示意图如下所示（不强制要求页面设计风格），需要包含的信息有：应用图标、应用名称、应用介绍、服务商介绍以及需要调用的信息详情，用户点击同意按钮后方可进入轻应用。注意：当用户取消任意勾选项，同意按钮需灰显，用户将无法进入轻应用。
+
 ![Image text](https://raw.githubusercontent.com/zhujiajun92/img-storage/master/4.png)
+
 所有入驻的轻应用要求跳转响应时间不超过3s。
 
 1.3 轻应用入驻规则
@@ -111,7 +113,9 @@ e. 当应用程序较大，预计加载时间很长时，您需要给应用添�
 
 （三）目前，市民云App的轻应用站内授权需要提供UI主要由以下元素构成：
 应用logo；应用icon；应用名称
+
 ![Image text](https://raw.githubusercontent.com/zhujiajun92/img-storage/master/5.png)
+
 ![Image text](https://raw.githubusercontent.com/zhujiajun92/img-storage/master/6.png)
 
 2.5 测试与发布规范
