@@ -1,8 +1,13 @@
 轻应用管理规范
+
 1.轻应用的入驻规范
+
 1.1轻应用的入驻流程
+
 ![Image text](https://raw.githubusercontent.com/zhujiajun92/img-storage/master/1.png)
 技术联系电话：021-63173333-241
+
+
 1.2 轻应用入驻模式
 
 市民云提供的应用入驻模式为H5页面轻应用。
